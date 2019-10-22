@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Retriving Moments of Interest From Multiple Videos
 
-You can use the [editor on GitHub](https://github.com/escorciav/moments-retrieval-page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi there! This is the landing page of our academic work [_Temporal Localization of Moments in Video Collections with Natural Language_](https://arxiv.org/abs/1907.12763).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Are you working on this area? Please sign up by hitting the :start: button in the Github banner. We will be releasing a preliminary version of the code, features within the next couple of weeks.
+
+If you are attending ICCV, say hi to the members of our team [Bryan Russell](http://bryanrussell.org/).
 
 ### Markdown
 
