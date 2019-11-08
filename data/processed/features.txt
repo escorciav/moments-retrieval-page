@@ -1,0 +1,4 @@
+data/processed/didemo/resnet152_rgb_max_cl-2.5.h5
+data/processed/didemo/resnet152_rgb_max_cl-5.h5
+data/processed/charades-sta/resnet152_rgb_max_cl-3.h5
+data/processed/activitynet-captions/resnet152_rgb_max_cl-5.h5

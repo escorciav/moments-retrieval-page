@@ -1,6 +1,6 @@
 This file shows the parameters used to generate the temporal proposals used in our [preprint-v1](https://arxiv.org/abs/1907.12763).
 
-The parameter below should be used to instantiate the classes [here](https://github.com/escorciav/moments-retrieval-page/blob/ghpage/proposals.py). Using those and our [train/val/test data](https://github.com/escorciav/moments-retrieval-page/blob/ghpage/data/processed) should regenerate our temporal proposals.
+The parameter below should be used to instantiate the classes [here](https://github.com/escorciav/moments-retrieval-page/blob/master/proposals.py). Using those and our [train/val/test data](https://github.com/escorciav/moments-retrieval-page/blob/master/data/processed) should regenerate our temporal proposals.
 
 TODO:sample-code-to-dump-temporal-proposals per-video
 
