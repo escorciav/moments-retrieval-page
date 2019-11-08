@@ -1,0 +1,11 @@
+data/processed/activitynet-captions/train.json
+data/processed/activitynet-captions/val.json
+data/processed/activitynet-captions/val-01.json
+data/processed/activitynet-captions/train-01.json
+data/processed/charades-sta/test-01.json
+data/processed/charades-sta/train-01.json
+data/processed/charades-sta/train-02_01.json
+data/processed/charades-sta/val-02_01.json
+data/processed/didemo/test-03.json
+data/processed/didemo/train-03.json
+data/processed/didemo/val-03.json
