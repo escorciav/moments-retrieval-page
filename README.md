@@ -29,6 +29,8 @@ Hit the ⭐ button in the [Github banner](https://github.com/escorciav/moments-r
 
 # News
 
+2020-07-30. Work, was rejected from ECCV'20(the fourth time due to novelty stuck_out_tongue_closed_eyes), will be released before CVPR'21 deadline. Get in touch if you plan to run comparsions!
+
 2019-11-08. Release features, baseline results, temporal proposals details.
 
 2019-10-25. Team members at ICCV. Say hi to [Bryan Russell](http://bryanrussell.org/) and [Josef Sivic](https://www.di.ens.fr/~josef/).
