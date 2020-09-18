@@ -31,6 +31,8 @@ We greatly appreciate to find attribution notes in your work when you copy small
 
 # News
 
+2020-07-30. Work, ~was rejected from ECCV'20(the fourth time due to novelty 😝)~, will be released before CVPR'21 deadline. Get in touch if you plan to run comparsions!
+
 2019-11-12. Model details (initialization), Video corpus moment retrieval evaluation details.
 
 2019-11-08. Release features, baseline results, temporal proposals details.
