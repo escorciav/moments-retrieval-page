@@ -2,7 +2,7 @@
 
 [Preprint](https://arxiv.org/abs/1907.12763),
 [Video-summary](https://drive.google.com/open?id=1pjLXPIqAhZT-Z7jpDr4npt68JfyTAHLr),
-[Code](https://github.com/escorciav/moments-retrieval-page),
+[Code](https://github.com/escorciav/moments-retrieval),
 [Demo](http://moments-retrieval.kaust.edu.sa/query/girl)
 
 Hi there! This is the landing page of our academic work [_Temporal Localization of Moments in Video Collections with Natural Language_](https://arxiv.org/abs/1907.12763).
@@ -31,6 +31,11 @@ We greatly appreciate to find attribution notes in your work when you copy small
 
 # News
 
+2023-03-08. We released the [code](https://github.com/escorciav/moments-retrieval).
+The editors/ACs and reviewers won.
+The paper will die in arxiv without any peer-reviewed stampt.
+Victor was stubborn and out of his mind for delaying the code release. 
+
 2020-07-30. Work, ~was rejected from ECCV'20(the fourth time due to novelty 😝)~, will be released before CVPR'21 deadline. Get in touch if you plan to run comparsions!
 
 2019-11-12. Model details (initialization), Video corpus moment retrieval evaluation details.
@@ -40,6 +45,10 @@ We greatly appreciate to find attribution notes in your work when you copy small
 2019-10-25. Team members at ICCV. Say hi to [Bryan Russell](http://bryanrussell.org/) and [Josef Sivic](https://www.di.ens.fr/~josef/).
 
 2019-10-21. pre-alpha^n Launching.
+
+# [Release 2.0](https://github.com/escorciav/moments-retrieval)
+
+On 2023-03-08, as a tribute to all the women Victor announced the code release 🌻. 
 
 # Release 1.0
 
