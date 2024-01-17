@@ -1,12 +1,8 @@
-# [Finding Moments in Video Collections Using Natural Language](https://escorciav.github.io/moments-retrieval-page/)
+Hi there! Welcome to the landing page of our academic work [_Finding Moments in Video Collections Using Natural Language_](https://arxiv.org/abs/1907.12763).
 
-## [Preprint](https://arxiv.org/abs/1907.12763), [Video-summary](https://drive.google.com/file/d/1zPFpfeL8Ov-n2pC8XUYTqPGLvKwQoCsf/view?usp=drive_link), [Code](https://github.com/escorciav/moments-retrieval), [Demo](http://moments-retrieval.kaust.edu.sa/query/girl)
+# [Preprint](https://arxiv.org/abs/1907.12763), [Video-summary](https://drive.google.com/file/d/1zPFpfeL8Ov-n2pC8XUYTqPGLvKwQoCsf/view?usp=drive_link), [Code](https://github.com/escorciav/moments-retrieval), [Demo](http://moments-retrieval.kaust.edu.sa/query/girl)
 
-Hi there! This is the landing page of our academic work [_Finding Moments in Video Collections Using Natural Language_](https://arxiv.org/abs/1907.12763).
-
-![teaser][teaser]
-
-[teaser]: https://github.com/escorciav/moments-retrieval-page/blob/master/data/page/teaser.png "teaser image"
+![teaser](https://github.com/escorciav/moments-retrieval-page/blob/master/data/page/teaser.png)
 
 Are you working in this area? Please sign up for updates by hitting the ⭐ button in the [Github banner](https://github.com/escorciav/moments-retrieval-page).
 
