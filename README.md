@@ -1,9 +1,6 @@
 # [Finding Moments in Video Collections Using Natural Language](https://escorciav.github.io/moments-retrieval-page/)
 
-[Preprint](https://arxiv.org/abs/1907.12763),
-[Video-summary](https://drive.google.com/file/d/1zPFpfeL8Ov-n2pC8XUYTqPGLvKwQoCsf/view?usp=drive_link),
-[Code](https://github.com/escorciav/moments-retrieval),
-[Demo](http://moments-retrieval.kaust.edu.sa/query/girl)
+## [Preprint](https://arxiv.org/abs/1907.12763), [Video-summary](https://drive.google.com/file/d/1zPFpfeL8Ov-n2pC8XUYTqPGLvKwQoCsf/view?usp=drive_link), [Code](https://github.com/escorciav/moments-retrieval), [Demo](http://moments-retrieval.kaust.edu.sa/query/girl)
 
 Hi there! This is the landing page of our academic work [_Finding Moments in Video Collections Using Natural Language_](https://arxiv.org/abs/1907.12763).
 
@@ -15,7 +12,7 @@ Are you working in this area? Please sign up for updates by hitting the ⭐ butt
 
 Please cite if you find this project helpful for your research
 
-```
+```bibtex
 @article{EscorciaSSGR2019,
   title={Finding Moments in Video Collections Using Natural Language},
   author={Victor Escorcia and Mattia Soldan and Josef Sivic and Bernard Ghanem and Bryan Russell},
@@ -34,7 +31,7 @@ We greatly appreciate finding attribution notes in your work when you copy small
 2023-03-08. We released the [code](https://github.com/escorciav/moments-retrieval).
 The editors/ACs and reviewers won.
 The paper will die in arxiv without any peer-reviewed stamp.
-Victor was stubborn and out of his mind for delaying the code release. 
+Victor was stubborn and out of his mind for delaying the code release.
 
 2022-11-23. Our paper got desk rejected from CVIU.
 The editor and Editor-In-Chief (Prof. Nicu Sebe) did not like that we submitted ~200 pages submission.
@@ -65,7 +62,7 @@ Get in touch if you plan to run comparisons!
 
 # [Release 2.0](https://github.com/escorciav/moments-retrieval)
 
-On 2023-03-08, as a tribute to all the women Victor announced the code release 🌻. 
+On 2023-03-08, as a tribute to all the women Victor announced the code release 🌻.
 
 # Release 1.0
 
