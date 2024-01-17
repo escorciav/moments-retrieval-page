@@ -1,9 +1,6 @@
 # [Finding Moments in Video Collections Using Natural Language](https://escorciav.github.io/moments-retrieval-page/)
 
-[Preprint](https://arxiv.org/abs/1907.12763),
-[Video-summary](https://drive.google.com/file/d/1zPFpfeL8Ov-n2pC8XUYTqPGLvKwQoCsf/view?usp=drive_link),
-[Code](https://github.com/escorciav/moments-retrieval),
-[Demo](http://moments-retrieval.kaust.edu.sa/query/girl)
+## [Preprint](https://arxiv.org/abs/1907.12763), [Video-summary](https://drive.google.com/file/d/1zPFpfeL8Ov-n2pC8XUYTqPGLvKwQoCsf/view?usp=drive_link), [Code](https://github.com/escorciav/moments-retrieval), [Demo](http://moments-retrieval.kaust.edu.sa/query/girl)
 
 Hi there! This is the landing page of our academic work [_Finding Moments in Video Collections Using Natural Language_](https://arxiv.org/abs/1907.12763).
 
@@ -15,7 +12,7 @@ Are you working in this area? Please sign up for updates by hitting the ⭐ butt
 
 Please cite if you find this project helpful for your research
 
-```
+```bibtex
 @article{EscorciaSSGR2019,
   title={Finding Moments in Video Collections Using Natural Language},
   author={Victor Escorcia and Mattia Soldan and Josef Sivic and Bernard Ghanem and Bryan Russell},

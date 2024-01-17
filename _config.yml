@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+title: Finding Moments in Video Collections
+description: Finding Moments in Video Collections Using Natural Language
+show_downloads: False
+google_analytics:
+theme: jekyll-theme-cayman
